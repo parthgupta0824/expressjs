@@ -44,6 +44,6 @@ app.post('/todos', (req, res) => {
         // console.log(error)
     }  
 })
-app.listen(3009, () => {
+app.listen(3008, () => {
     console.log(`server started`)
 })
