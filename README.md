@@ -1,3 +1,3 @@
 # expressjs
 
-npm install  ->  This command installs a package and any packages that it depends on
+npm install  ->  This command install all the dependencies used in this project 
